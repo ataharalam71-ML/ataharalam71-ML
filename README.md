@@ -15,7 +15,6 @@ My interests include:
 ## 🚀 Currently Working On
 - 🌱 Improving my skills in **Deep Learning and Transformer models**
 - 🤖 Building **real-world ML projects**
-- 📊 Exploring **predictive maintenance and anomaly detection systems**
 - 🧠 Developing **AI systems for industrial applications**
 
 ---
@@ -53,9 +52,9 @@ My interests include:
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/atahar-alam
+- Email: ataharalam67@gmail.com , 23b2431@iitb.ac.in
+- GitHub: https://github.com/ataharalam71-ML/ataharalam71-ML
 
 ---
 
