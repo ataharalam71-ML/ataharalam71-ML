@@ -54,7 +54,7 @@ My interests include:
 
 - LinkedIn: https://www.linkedin.com/in/atahar-alam
 - Email: ataharalam67@gmail.com , 23b2431@iitb.ac.in
-- GitHub: https://github.com/ataharalam71-ML/ataharalam71-ML
+- GitHub: https://github.com/ataharalam71-ML
 
 ---
 
