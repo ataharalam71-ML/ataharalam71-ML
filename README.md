@@ -51,15 +51,6 @@ My interests include:
 
 ---
 
-## 📂 Featured Projects
-🔬 **Tomato Disease Detection**
-- CNN-based image classification model for detecting plant diseases.
-
-🧠 **IMDB Sentiment Analysis**
-- Built multiple models including **Machine Learning, RNN, LSTM, and BERT** with full preprocessing pipeline.
-
----
-
 ## 📫 How to Reach Me
 
 - LinkedIn: https://linkedin.com/in/your-link
